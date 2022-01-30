@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/project1/static/css/main.4662149a.chunk.css",
+    "main.js": "/project1/static/js/main.e7fe29d0.chunk.js",
+    "main.js.map": "/project1/static/js/main.e7fe29d0.chunk.js.map",
+    "runtime-main.js": "/project1/static/js/runtime-main.b54441be.js",
+    "runtime-main.js.map": "/project1/static/js/runtime-main.b54441be.js.map",
+    "static/js/2.19f6b676.chunk.js": "/project1/static/js/2.19f6b676.chunk.js",
+    "static/js/2.19f6b676.chunk.js.map": "/project1/static/js/2.19f6b676.chunk.js.map",
+    "index.html": "/project1/index.html",
+    "precache-manifest.cbc31730dbc1fd96e8d575852284a277.js": "/project1/precache-manifest.cbc31730dbc1fd96e8d575852284a277.js",
+    "service-worker.js": "/project1/service-worker.js",
+    "static/css/main.4662149a.chunk.css.map": "/project1/static/css/main.4662149a.chunk.css.map",
+    "static/js/2.19f6b676.chunk.js.LICENSE.txt": "/project1/static/js/2.19f6b676.chunk.js.LICENSE.txt",
+    "static/media/coin.gif": "/project1/static/media/coin.a0862539.gif",
+    "static/media/snake.gif": "/project1/static/media/snake.10979309.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b54441be.js",
+    "static/js/2.19f6b676.chunk.js",
+    "static/css/main.4662149a.chunk.css",
+    "static/js/main.e7fe29d0.chunk.js"
+  ]
+}
